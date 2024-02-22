@@ -9,6 +9,12 @@ describe("FizzBuzz", () => {
     expect(generarFizzBuzz(2)).toEqual("2");
   });
 
-  
+  it("deberia generar Fizz para un numero que tiene esa regla como el nro 3", () => {
+    expect(generarFizzBuzz(3)).toEqual("Fizz");
+  });
+
+  it("deberia generar Fizz para un numero multiplo de 3", () => {
+    expect(generarFizzBuzz(6)).toEqual("Fizz");
+  });
 });
 
