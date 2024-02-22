@@ -1,0 +1,15 @@
+Funcionalidades:
+1.- Imprimir una secuencia para un número
+2.- Imprimir una secuencia de más números tomando en cuenta el caso Fizz
+3.- Imprimir una secuencia de más números tomando en cuenta el caso Buzz
+4.- Imprimir una secuencia de más números tomando en cuenta el caso FizzBuzz
+
+Casos de Prueba:
+1.- Imprimir una secuencia para un numero
+    1.1 Si genero para un número sin regla me genera el mismo número
+2.- Imprimir una secuencia de más números tomando en cuenta el caso Fizz
+    2.1 Si genero un número con la refla del Fizz me genera Fizz
+3.- Imprimir una secuencia de más números tomando en cuenta el caso Buzz
+    3.1 Si genero un número con la refla del Buzz me genera Buzz
+4.- Imprimir una secuencia de más números tomando en cuenta el caso FizzBuzz
+    4.1 Si genero un número con la refla del FizzBuzz me genera FizzBuzz
